@@ -32,5 +32,3 @@ Mini CSS Project/
 ## How to Use
 Open `index.html` in your browser to view the project.
 
-# Photography-Sidebar-Website
-Responsive photography landing page with a CSS-only sidebar menu, full-screen image background, animated navigation, social icons, and service category cards.
