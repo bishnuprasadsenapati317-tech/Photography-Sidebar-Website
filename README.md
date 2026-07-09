@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Photography Sidebar Website
 
 A responsive photography-themed landing page built with HTML and CSS. It features a full-screen background image, dark overlay, animated sidebar navigation, social media icons, and category cards for photography services.
@@ -37,3 +38,7 @@ Open `index.html` in your browser to view the project.
 ## Repository Description
 
 Responsive photography landing page with a CSS-only sidebar menu, full-screen image background, animated navigation, social icons, and service category cards.
+=======
+# Photography-Sidebar-Website
+Responsive photography landing page with a CSS-only sidebar menu, full-screen image background, animated navigation, social icons, and service category cards.
+>>>>>>> 74ebfdcc439a4665a57f6c7a05367ba3650772f2
